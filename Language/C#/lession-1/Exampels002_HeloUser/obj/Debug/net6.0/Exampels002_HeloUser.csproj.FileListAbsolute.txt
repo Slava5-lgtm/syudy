@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\bin\Debug\net6.0\Exampels002_HeloUser.exe
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\bin\Debug\net6.0\Exampels002_HeloUser.deps.json
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\bin\Debug\net6.0\Exampels002_HeloUser.runtimeconfig.json
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\bin\Debug\net6.0\Exampels002_HeloUser.dll
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\bin\Debug\net6.0\Exampels002_HeloUser.pdb
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\obj\Debug\net6.0\Exampels002_HeloUser.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\obj\Debug\net6.0\Exampels002_HeloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\obj\Debug\net6.0\Exampels002_HeloUser.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\obj\Debug\net6.0\Exampels002_HeloUser.AssemblyInfo.cs
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\obj\Debug\net6.0\Exampels002_HeloUser.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\obj\Debug\net6.0\Exampels002_HeloUser.dll
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\obj\Debug\net6.0\refint\Exampels002_HeloUser.dll
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\obj\Debug\net6.0\Exampels002_HeloUser.pdb
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\obj\Debug\net6.0\Exampels002_HeloUser.genruntimeconfig.cache
+C:\Users\User\Desktop\study\Language\C#\lession-1\Exampels002_HeloUser\obj\Debug\net6.0\ref\Exampels002_HeloUser.dll
