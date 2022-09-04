@@ -6,3 +6,4 @@ Additional lesson - дополнительный урок
 Block diagram – блок схема
 Translation - перевод
 teams - команды
+language - язык
