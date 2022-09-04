@@ -1,0 +1,7 @@
+example – пример
+lesson – урок
+seminar – семинар 
+lecture – лекция
+Additional lesson - дополнительный урок
+Block diagram – блок схема
+Translation - перевод
