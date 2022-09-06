@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\bin\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.exe
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\bin\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.deps.json
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\bin\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.runtimeconfig.json
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\bin\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.dll
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\bin\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.pdb
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\obj\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\obj\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\obj\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\obj\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.AssemblyInfo.cs
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\obj\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\obj\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.dll
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\obj\Debug\net6.0\refint\Exampels006_Найти_максимус+из_9_чисел_Стихийно.dll
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\obj\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.pdb
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\obj\Debug\net6.0\Exampels006_Найти_максимус+из_9_чисел_Стихийно.genruntimeconfig.cache
+C:\Users\User\Desktop\study\Language\C#\lesion-2_Методы_и_массивы\Exampels006_Найти_максимус+из_9_чисел_Стихийно\obj\Debug\net6.0\ref\Exampels006_Найти_максимус+из_9_чисел_Стихийно.dll

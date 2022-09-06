@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\Desktop\\study\\Language\\C#\\lesion-2_Методы_и_массивы\\Exampels006_Найти_максимус+из_9_чисел_Стихийно\\Exampels006_Найти_максимус+из_9_чисел_Стихийно.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Desktop\\study\\Language\\C#\\lesion-2_Методы_и_массивы\\Exampels006_Найти_максимус+из_9_чисел_Стихийно\\Exampels006_Найти_максимус+из_9_чисел_Стихийно.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\study\\Language\\C#\\lesion-2_Методы_и_массивы\\Exampels006_Найти_максимус+из_9_чисел_Стихийно\\Exampels006_Найти_максимус+из_9_чисел_Стихийно.csproj",
+        "projectName": "Exampels006_Найти_максимус+из_9_чисел_Стихийно",
+        "projectPath": "C:\\Users\\User\\Desktop\\study\\Language\\C#\\lesion-2_Методы_и_массивы\\Exampels006_Найти_максимус+из_9_чисел_Стихийно\\Exampels006_Найти_максимус+из_9_чисел_Стихийно.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\study\\Language\\C#\\lesion-2_Методы_и_массивы\\Exampels006_Найти_максимус+из_9_чисел_Стихийно\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
