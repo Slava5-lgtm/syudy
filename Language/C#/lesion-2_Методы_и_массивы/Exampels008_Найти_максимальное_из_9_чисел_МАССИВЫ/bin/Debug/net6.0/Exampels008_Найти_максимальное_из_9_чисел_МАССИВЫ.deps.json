@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exampels008_Найти_максимальное_из_9_чисел_МАССИВЫ/1.0.0": {
+        "runtime": {
+          "Exampels008_Найти_максимальное_из_9_чисел_МАССИВЫ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exampels008_Найти_максимальное_из_9_чисел_МАССИВЫ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
