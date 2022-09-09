@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exampels009_Поиски_позиции_нужного_нам_элемента/1.0.0": {
+        "runtime": {
+          "Exampels009_Поиски_позиции_нужного_нам_элемента.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exampels009_Поиски_позиции_нужного_нам_элемента/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
