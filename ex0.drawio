@@ -1,76 +1,76 @@
 <mxfile host="65bd71144e">
     <diagram id="0oxxTBzF2Cnqxt8NvFPt" name="Страница 1">
-        <mxGraphModel dx="2031" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1984" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="4" value="" style="edgeStyle=none;html=1;fontSize=20;" edge="1" parent="1" source="2" target="3">
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;fontSize=20;" parent="1" source="2" target="3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="&lt;font size=&quot;3&quot;&gt;START&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="&lt;font size=&quot;3&quot;&gt;START&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="40" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="edgeStyle=none;html=1;fontSize=18;" edge="1" parent="1" source="3" target="5">
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="1" source="3" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="&lt;font size=&quot;3&quot;&gt;ДЕЙСТВИЕ&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="3" value="&lt;font size=&quot;3&quot;&gt;ДЕЙСТВИЕ&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="280" y="150" width="180" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="" style="edgeStyle=none;html=1;fontSize=18;" edge="1" parent="1" source="5" target="12">
+                <mxCell id="15" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="1" source="5" target="12" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&lt;font size=&quot;3&quot;&gt;ВВОД ДАНЫХ&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                <mxCell id="5" value="&lt;font size=&quot;3&quot;&gt;ВВОД ДАНЫХ&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
                     <mxGeometry x="290" y="260" width="160" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="" style="edgeStyle=none;html=1;fontSize=18;" edge="1" parent="1" source="7" target="9">
+                <mxCell id="17" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="1" source="7" target="9" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="&lt;font size=&quot;3&quot;&gt;ПЕЧАТЬ ДАНЫХ НА ЭКРАН&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+                <mxCell id="7" value="&lt;font size=&quot;3&quot;&gt;ПЕЧАТЬ ДАНЫХ НА ЭКРАН&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="460" width="120" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="&lt;font size=&quot;3&quot;&gt;END&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="9" value="&lt;font size=&quot;3&quot;&gt;END&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="590" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="" style="edgeStyle=none;html=1;fontSize=18;" edge="1" parent="1" source="12" target="7">
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="1" source="12" target="7" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="&lt;font size=&quot;3&quot;&gt;УСЛОВИЯ&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="12" value="&lt;font size=&quot;3&quot;&gt;УСЛОВИЯ&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="300" y="350" width="140" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18" target="19">
+                <mxCell id="20" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="18" target="19" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="370" y="780"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="23" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="20">
+                <mxCell id="23" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="20" vertex="1" connectable="0">
                     <mxGeometry x="-0.55" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="22" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0.35;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18" target="21">
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0.35;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="18" target="21" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint y="780"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="22">
+                <mxCell id="24" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="22" vertex="1" connectable="0">
                     <mxGeometry x="-0.6118" y="-1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="18" value="УСЛОВИЯ" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                <mxCell id="18" value="УСЛОВИЯ" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="110" y="740" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                <mxCell id="19" value="" style="whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="280" y="840" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                <mxCell id="21" value="" style="whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="-40" y="840" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="edgeStyle=none;html=1;fontSize=18;" edge="1" parent="1" source="25">
+                <mxCell id="27" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="1" source="25" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="540" y="860" as="targetPoint"/>
                         <Array as="points">
@@ -81,19 +81,112 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="25" value="УСЛОВНЫЙ&lt;br&gt;ОПЕРАТОР" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                <mxCell id="25" value="УСЛОВНЫЙ&lt;br&gt;ОПЕРАТОР" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="480" y="800" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="" style="edgeStyle=none;html=1;fontSize=18;" edge="1" parent="1" source="28">
+                <mxCell id="30" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="1" source="28" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="-80" y="820" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="28" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;if&amp;nbsp; (condition) {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;/// condition -&amp;gt; TRUE (ИСТИНА) блок YES&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;} else {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;/// condition -&amp;gt; FALS (ЛОЖЬ) блок NO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="1">
+                <mxCell id="28" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;if&amp;nbsp; (condition) {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;/// condition -&amp;gt; TRUE (ИСТИНА) блок YES&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;} else {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;/// condition -&amp;gt; FALS (ЛОЖЬ) блок NO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" parent="1" vertex="1">
                     <mxGeometry x="-530" y="690" width="370" height="250" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-                    <mxGeometry x="60" y="1040" width="80" height="80" as="geometry"/>
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;startArrow=none;" edge="1" parent="1" source="35" target="33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="УСЛОВИЯ" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="-140" y="1040" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="33" target="32">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-60" y="1230" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-240" y="1240"/>
+                            <mxPoint x="-240" y="1080"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="1210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;font size=&quot;3&quot;&gt;TRUE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-90" y="1155" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="edgeStyle=none;html=1;endArrow=none;" edge="1" parent="1" source="32" target="35">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="80" y="1110" as="sourcePoint"/>
+                        <mxPoint x="80" y="1200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="39" target="39">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="1000" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="340" y="1360"/>
+                            <mxPoint x="-280" y="1360"/>
+                            <mxPoint x="-280" y="1000"/>
+                            <mxPoint x="335" y="1000"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="ЦИКЛ - с пред условиям (сначала провиряем условие потом делаем действия" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="1110" width="270" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="edgeStyle=none;html=1;fontSize=18;" edge="1" parent="1" source="43" target="44">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="-390" y="1520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="44" target="43">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-610" y="1455" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-600" y="1680"/>
+                            <mxPoint x="-600" y="1550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="53">
+                    <mxGeometry x="-0.7271" y="2" relative="1" as="geometry">
+                        <mxPoint x="12" y="-2" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="условия" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-420" y="1640" width="180" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="ЦИКЛ - с подусловием (сначало что то делаем потом проверяем" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="-180" y="1560" width="350" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="COUNT = 1, 10, 1 (COUNT - БУДЕТ МЕНЯТЬСЯ 1 2 3 4 5 6 7 8 9 10)&lt;br&gt;COUNT = 1, 10, 5 (COUNT - БУДЕТ МЕНЯТЬСЯ 1, 6 И ВСЕ Т.К. 11 &amp;gt; 10)&amp;nbsp;&lt;br&gt;COUNT = 10, 0, -2 (CJUNT - БУДЕТ МЕНЯТЬСЯ 10 8 6 4 2 0)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="-600" y="1890" width="620" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="endArrow=classic;html=1;fontSize=18;exitX=0.52;exitY=1.027;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.526;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="46" target="46">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-130" y="1640" as="sourcePoint"/>
+                        <mxPoint x="2" y="1480" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2" y="1800"/>
+                            <mxPoint x="-640" y="1800"/>
+                            <mxPoint x="-640" y="1480"/>
+                            <mxPoint x="4" y="1480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="60" target="60">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="160" y="1840" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="160" y="2040"/>
+                            <mxPoint x="-640" y="2040"/>
+                            <mxPoint x="-640" y="1840"/>
+                            <mxPoint x="160" y="1840"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="60" value="СЧЕТЧИК" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="1920" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
