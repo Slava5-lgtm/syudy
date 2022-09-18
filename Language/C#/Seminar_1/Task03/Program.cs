@@ -9,27 +9,27 @@ if (num == 1)
 {
     Console.Write("Это понидельник");
 }
-if (num == 2)
+else if (num == 2)
 {
     Console.Write("Это вторник ");
 }
-if (num == 3)
+else if (num == 3)
 {
     Console.Write("Это среда");
 }
-if (num == 4)
+else if (num == 4)
 {
     Console.Write("Это четверг");
 }
-if (num == 5)
+else if (num == 5)
 {
     Console.Write("Это пятница");
 }
-if (num == 6)
+else if (num == 6)
 {
     Console.Write("Это суббота");
 }
-if (num == 7)
+else if (num == 7)
 {
     Console.Write("Это воскрисенья");
 }
