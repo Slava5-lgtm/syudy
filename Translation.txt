@@ -7,3 +7,4 @@ Block diagram – блок схема
 Translation - перевод
 teams - команды
 language - язык
+Task - Задача
