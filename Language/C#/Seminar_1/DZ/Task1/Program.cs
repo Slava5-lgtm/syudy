@@ -4,12 +4,21 @@
 // 22 3 9 -> 22
 
 Console.Write("Введите целое число: ");
-int numberA = Convert.ToInt32(Console.ReadLine());
+int numbera = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите целое число: ");
-int numberB = Convert.ToInt32(Console.ReadLine());
+int numberb = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите целое число: ");
-int numberC = Convert.ToInt32(Console.ReadLine());
-int max = numberA;
-if(numberB > max) max = numberB;
-if(numberC > max) max = numberC;
-Console.WriteLine(max);
+int numberc = Convert.ToInt32(Console.ReadLine());
+// int max = numberA;
+// if(numberB > max) max = numberB;
+// if(numberC > max) max = numberC;
+//Console.WriteLine(max);
+if (a > b && a > c)
+{
+   System.Console.WriteLine(a);
+}
+else if (b > c)
+{
+    System.Console.WriteLine(b);
+}
+else System.Console.WriteLine(c);
