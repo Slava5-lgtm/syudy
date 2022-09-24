@@ -27,4 +27,4 @@ int Doub(int num)
     return  first * 10 + third;
 }
 int result = Doub(number);
-Console.WriteLine($"Искомое число{result}");
+Console.WriteLine($"Искомое число {result}");
