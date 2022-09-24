@@ -18,7 +18,8 @@ int MaxDigit (int num)
     return firstDigit > secondDigit ? firstDigit : secondDigit;
 }
 
-bool isEqualDigits(int num1, int num2)
+// метод сравнивания двух цифр
+bool isEqualDigits(int num1, int num2) 
 {
     return num1 == num2;
 }
