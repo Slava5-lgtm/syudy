@@ -8,7 +8,7 @@ Console.Write("Введите трех значное число: ");
 int numb1 = Convert.ToInt32(Console.ReadLine());
 
 int third = numb1 / 100;
-int second = numb1 / 10  % 10;
+int second = numb1 / 10 % 10;
 
 
 Console.WriteLine($"Искомое число {second}");

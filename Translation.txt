@@ -9,4 +9,3 @@ teams - команды
 language - язык
 Task - Задача
 practice - практика
-content - содержание
