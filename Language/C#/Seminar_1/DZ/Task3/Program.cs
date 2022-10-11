@@ -2,22 +2,23 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-Console.WriteLine ("Введите любо целое положительное число");
+Console.WriteLine("Введите любо целое положительное число");
 
 string number = Console.ReadLine();
 
-int number1 = int.Parse (number);
+int number1 = int.Parse(number);
 
 int n = 1;
 
 bool not = true;
+
 Console.WriteLine("Чётные числа от 1 до " + number1);
-    while (n <= number1)
+while (n <= number1)
+{
+    if (n % 2 != 1)
     {
-        if (n % 2 != 1)
-        {
-            Console.Write(n + ", ");
-            not = false;
-            }
-            n++;
+        Console.Write(n + ", ");
+        not = false;
     }
+    n++;
+}
