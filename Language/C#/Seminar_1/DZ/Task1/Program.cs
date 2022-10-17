@@ -9,19 +9,20 @@ Console.Write("Ввдите число: ");
 int b = Convert.ToInt32(Console.ReadLine());
 Console.Write("Ввдите число: ");
 int c = Convert.ToInt32(Console.ReadLine());
-int max = a;
-if (b > max) max = b;
-if (c > max) max = c;
+//int max = a;
+// if (b > max) max = b;
+// if (c > max) max = c;
 //Console.WriteLine(max);
-Console.Write($"самое большое число {max}");
-//if (a > b && a > c)
+//Console.Write($"самое большое число {max}");
+if (a > b && a > c) 
 
-//{
-//    System.Console.WriteLine(a);
-// }
-// else if (b > c)
-// {
-//     System.Console.WriteLine(b);
-// }
-// else System.Console.WriteLine(c);
+{
+   System.Console.Write($"самое большое число {a}");//Line(a);
+}
+else if (b > c) 
+{
+    System.Console.Write($"самое большое число {b}");//Line(b);
+}
+else System.Console.Write($"самое большое число {c}");//Line(c);
+
 
