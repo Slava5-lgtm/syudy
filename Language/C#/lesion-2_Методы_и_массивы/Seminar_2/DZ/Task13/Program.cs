@@ -4,16 +4,16 @@
 // 32679 -> 6
 
 
-Console.WriteLine("Введите число");
-int number = Convert.ToInt32(Console.ReadLine()); //1234567 1234567/10 = 123456 123456/10 = 12345 12345/10 = 1234 1234/10 = 123
-                                                          // int res = 123 % 10; // находим третью цифру
-                                                          //int ris = 123 % 10;
-                                                          //int ris = num;
-int counter = 0;
-while (counter > 999) // цикл завершаеться
-{
-    int num = number / 10;
-    counter++;
-    int res = num % 10;
-}
-Console.WriteLine($"Наибольшое цифра числа { res}");
+// Console.WriteLine("Введите число");
+// int number = Convert.ToInt32(Console.ReadLine()); //1234567 1234567/10 = 123456 123456/10 = 12345 12345/10 = 1234 1234/10 = 123
+//                                                           // int res = 123 % 10; // находим третью цифру
+//                                                           //int ris = 123 % 10;
+//                                                           //int ris = num;
+// int counter = 0;
+// while (counter > 999) // цикл завершаеться
+// {
+//     int num = number / 10;
+//     counter++;
+//     int res = num % 10;
+// }
+// Console.WriteLine($"Наибольшое цифра числа { res}");
