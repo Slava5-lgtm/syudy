@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Language/Python/lession-1/Тип даных переменые"
+    ]
+}
