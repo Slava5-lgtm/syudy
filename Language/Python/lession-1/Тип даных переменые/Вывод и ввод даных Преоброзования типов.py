@@ -11,4 +11,4 @@ print(a, '+', b, '=', a+b)  # что бы произвести какиета д
                             # a = int(input()) 
 #print(a, b) 
 # print('{} {}'.format(a, b))
-# print(f'{a} {b}')
+# print(f'{a} {b}') 

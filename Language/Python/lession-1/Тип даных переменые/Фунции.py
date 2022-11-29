@@ -9,8 +9,10 @@ def f(x):# ключивое слово def имя f аргументы (x):
         return 'Целое'
     elif x == 2.3:
         return 23
+    else:
+        return
 
 
-arg = 2  # АРГУМЕНТ (arg) = 1
+arg = 1  # АРГУМЕНТ (arg) = 1
 print(f(arg))# ПОКАЗЫВАЕМ РЕЗУЛЬТАТ РАБОТЫ arg САМОЙ ФУНЦИИ
 print(type(f(arg)))# СДЕСЬ ПОКАЗЫВАЕМ ТИП ДАНЫХ
