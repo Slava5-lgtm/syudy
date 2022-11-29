@@ -6,7 +6,7 @@
 
 # Усть у нас скрипт предедущего занятия (Lession-1 -> Тип данных переменые -> Функции)
 
-# import heloo
+import hello
 
-# print(heloo.f(1))
+print(hello.f(1))
 
