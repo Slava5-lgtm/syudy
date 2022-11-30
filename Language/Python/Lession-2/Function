@@ -4,6 +4,7 @@
 # использовать функционал другого
 
 
-import hello
+# import hello              что бы часто не писать (import hello) можно написать (import hello as h)
+#                           и вызывать просто написав (print(h.f(1)))
 
-print(hello.f(1))
+# print(hello.f(1))

@@ -14,3 +14,10 @@ Run Selection/ line in Python Terminal - Запустите выделение/ 
 Content - содержание
 False - Ложный
 True - Правда
+functions - функции
+data type variables - тип данных переменные
+files - файлы
+functions by default - функции по умолчанию
+arguments - аргументы
+Recursion - Рекурсия
+Tuples - Кортежи
