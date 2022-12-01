@@ -21,3 +21,6 @@ functions by default - функции по умолчанию
 arguments - аргументы
 Recursion - Рекурсия
 Tuples - Кортежи
+Dictionary - Словори
+plenty - множество
+List - Список
