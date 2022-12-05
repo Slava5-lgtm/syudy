@@ -15,10 +15,10 @@ Content - содержание
 False - Ложный
 True - Правда
 functions - функции
-data type variables - тип данных переменные
-files - файлы
-functions by default - функции по умолчанию
-arguments - аргументы
+Data type variables - тип данных переменные
+File - файлы
+Functions by default - функции по умолчанию
+Arguments - аргументы
 Recursion - Рекурсия
 Tuples - Кортежи
 Dictionary - Словори

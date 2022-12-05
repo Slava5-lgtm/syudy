@@ -4,13 +4,18 @@
 
 # 0,56 -> 11
 
-n = float(input("Введите число:"))
-# tot = 0
-# while (n > 0):
-i = 1
-while i <= n:
-    print((3+i), end=', ')
-    i += 1
-print("Сумма цифр равна:", i)
 
+a = input('Введите число ')
+def summa(a):  
+    if float(a) < 0:  
+        a = float(a) * (-1)
+    number = 0
+
+    for i in str(a):
+        if i != '.':
+            number += int(i)
+    return number
+
+
+print(f'Сумма чисел равна {summa(a)}')
 
