@@ -10,5 +10,5 @@ def concatenatio(*params):              # Перред аргументом ст
 
 
 print(concatenatio('a', 's', 'd', 'w'))  # Вызываме фунцию передаем четыре аргумента и получаем строку asdw
-print(concatenatio('a', '1', 'd', '2'))  # Или передаем два аргумента и получаем 1d2
-# print(concatenatio(1, 2, 3, 4))  
+print(concatenatio('1', 'd', '2'))  # Или передаем два аргумента и получаем 1d2
+print(concatenatio(1, 2, 3, 4))  # может только объединить str (не "int") в str

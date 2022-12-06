@@ -71,6 +71,7 @@
     Seminar 3   - Урок 3. Данные, функции и модули в Python
     Seminar 4   - Урок 4. Данные, функции и модули в Python. Продолжение
     lesson 3  - Урок 3. Ускоренная обработка данных: lambda, filter, map, zip, enumerate, list comprehension
+                        - Lambda 
    
 
 

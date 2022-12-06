@@ -46,5 +46,5 @@ print(list1)
                                         # Добовления в конец списка
 
 
-print(list1.append(11))                 # функция (append)
+print(list1.append(11))                 # функция(append()) — добавляет новый элемент в конец списка
 print(list1)
