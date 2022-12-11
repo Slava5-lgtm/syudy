@@ -25,3 +25,5 @@ Dictionary - Словори
 plenty - множество
 List - Список
 Comprehension - Понимание
+Module - модуль
+Controller - контролер
