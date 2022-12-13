@@ -69,7 +69,8 @@
                          - Recursion - (Рекурсия)  
                          - Tuples - (Кортежи)
     Seminar 3   - Урок 3. Данные, функции и модули в Python
-                          - File-1. Функции. Определения и вызовы 
+                          - File-1. Функции. Определения и вызовы
+                          - File-2. Передача аргументов *args **kwargs 
     Seminar 4   - Урок 4. Данные, функции и модули в Python. Продолжение
     lesson 3  - Урок 3. Ускоренная обработка данных: lambda, filter, map, zip, enumerate, list comprehension
                         - Lambda
