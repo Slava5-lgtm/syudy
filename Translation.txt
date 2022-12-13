@@ -27,3 +27,5 @@ List - Список
 Comprehension - Понимание
 Module - модуль
 Controller - контролер
+Algorithm - Алгоритм
+Generator - генератор

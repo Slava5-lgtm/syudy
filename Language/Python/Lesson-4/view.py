@@ -1,14 +1,15 @@
 #  Мы создали файл view
 # Это Модуль будет полностью завязан на консоли
 def view_data(data):
-    print(data)
+    # print(data)# Если не устраивает такой вывод то можно исправить (f'sum = {data}')
+    print(f'sum = {data}')
 
 
 # Наши модули (view и module) нушно связать третим звеном пусть зто будет controller(контролер)
 
 # Описываем мтакой метод
 
-def get_vaule():
+def get_value():
     return int(input('value = ')) # Сразу конвектируем в число (int(input и сазу описываем какойто текст('value = '))
 
 # Возрошяемся в контролер (controller) 
