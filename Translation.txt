@@ -29,3 +29,4 @@ Module - модуль
 Controller - контролер
 Algorithm - Алгоритм
 Generator - генератор
+Decorators - Декораторы
