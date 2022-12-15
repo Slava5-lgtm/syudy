@@ -1,5 +1,5 @@
-
-
+# Всемогущие декораторы: https: // www.youtube.com/watch?v = Va-ovLxHmus & t = 2s
+# -*- coding: utf-8 -*-
 
 # def decator(func):                        # Внутри этого декоратора сосдаем вложеную функцию
 
