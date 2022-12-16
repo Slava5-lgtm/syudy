@@ -18,13 +18,19 @@
 # В качестве символа-разделителя используйте пробел. Результат запишите в исодный файл(minn maxx).
 
 
-f_path = 'test.txt'
+# f_path = 'test.txt'
 
-with open(f_path, 'r') as f_nums:
-    list_nums = f_nums.read().split(' ')
-for i in range(len(list_nums)):
-    list_nums[i] = int(list_nums[i])
+# with open(f_path, 'r') as f_nums:
+#     list_nums = f_nums.read().split(' ')
+# for i in range(len(list_nums)):
+#     list_nums[i] = int(list_nums[i])
 
-minmax_list = [min(list_nums), max(list_nums)]
-with open(f_path, 'a') as min_max:
-    min_max.writelines(f"\n {minmax_list} ")
+# minmax_list = [min(list_nums), max(list_nums)]
+# with open(f_path, 'a') as min_max:
+#     min_max.writelines(f"\n {minmax_list} ")
+
+from pathlib import Path
+
+with open('text.txt.', 'r', encoding='utf-8') as file:
+    text = file.readline()
+    print(text) 
