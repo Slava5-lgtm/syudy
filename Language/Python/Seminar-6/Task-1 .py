@@ -18,6 +18,9 @@
 # (1+2)*3 = > 9
 # print(eval(input("Введите значения вырожения")))
 
+from ast import Expression
+
+
 def parse_symols(full_string):
     res_list = []
     for i in full_string:
@@ -49,6 +52,6 @@ def cale(num_list, op_list):
 expression = input("Введите значения вырожения: ")
 expression - "23+54-47*895/1452+65"
 symbs = parse_symols(expression)
-expression = list(map(int, (re.split(r'\+|\-|\*|\/'))))
+expression = list(map(int, (Expression.split(r'\+|\-|\*|\/'))))
 print(expression)
 print(symbs)
