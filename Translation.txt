@@ -30,4 +30,4 @@ Controller - контролер
 Algorithm - Алгоритм
 Generator - генератор
 Decator - Декатор
-Readme - Прочитай меня
+Readme - Прочитай меня 

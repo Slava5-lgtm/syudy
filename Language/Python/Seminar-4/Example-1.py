@@ -27,22 +27,24 @@
 
 # with open(text, 'a') as min_max:
 #      min_max.writelines(f"\n {minmax_list} ")
+
+
 from pathlib import Path
 file_name = 'text.txt'
 relative_file_directory = Path(file_name)
-
 import json
 
 f_path = 'text.txt'
 with open(relative_file_directory, 'r', encoding='utf-8') as f_nums:  # так надо делать путь к файлу
     list_nums = f_nums.read().split(' , ')
-    #print(f_path)
-   
+    # print(f_path)
+
     print(list_nums)
 for i in range(len(list_nums)):
-     list_nums[i] = int(list_nums[i])
+    list_nums[i] = int(list_nums[i])
 minmax_list = [min(list_nums), max(list_nums)]
 
+
 with open(relative_file_directory, 'a') as min_max:
-     min_max.writelines(f"\n {minmax_list} ")
+    min_max.writelines(f"\n {minmax_list} ")
 print(min_max)
